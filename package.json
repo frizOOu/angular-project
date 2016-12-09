@@ -2,15 +2,14 @@
   "name": "angular-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "mongodb": "^2.2.12",
-    "mongoose": "^4.7.1"
-  },
-  "devDependencies": {},
+  "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "le_gue_f",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  }
 }
